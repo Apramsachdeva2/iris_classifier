@@ -1,0 +1,4 @@
+Accuracy using decision tree classifier =  0.96
+Accuracy using KNeighbors classifier =  0.94
+Accuracy using Random Forest classifier =  0.98
+Accuracy using naive bayes classifier =  0.94
